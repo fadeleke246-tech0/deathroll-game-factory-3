@@ -29,3 +29,38 @@ When someone wants to buy:
 4. Use promotion materials from `promotion/` folder
 
 ## 📁 Folder Structure
+games/           # All created games (one folder per game)
+├── game_info.json
+├── README.md
+└── game.py
+
+promotion/       # Promotion materials for each game
+├── short_promo.txt
+├── medium_promo.txt
+└── long_promo.txt
+
+reports/         # Daily production reports
+├── daily_report_YYYYMMDD.json
+└── summary_YYYYMMDD.txt
+
+```
+
+## 🎯 Technical Details
+- **Language**: Python 3.9
+- **Automation**: GitHub Actions
+- **Schedule**: Daily at 9:00 AM UTC
+- **Runtime**: Until December 31, 2027
+- **Contact**: favouradeleke246@gmail.com
+- **Brand**: deathroll.co
+
+## 🔗 Useful Links
+- **GitHub Actions**: https://github.com/fadeleke246-tech0/deathroll-game-factory-3/actions
+- **Games Folder**: https://github.com/fadeleke246-tech0/deathroll-game-factory-3/tree/main/games
+- **Reports**: https://github.com/fadeleke246-tech0/deathroll-game-factory-3/tree/main/reports
+
+## 📞 Support
+For sales inquiries: `favouradeleke246@gmail.com`
+
+---
+*This factory runs automatically until 2027-12-31*
+```
