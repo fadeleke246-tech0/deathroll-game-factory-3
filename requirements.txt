@@ -1,0 +1,2 @@
+# Requirements for Deathroll Game Factory v3.0
+# No external dependencies - pure Python
